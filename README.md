@@ -1,13 +1,14 @@
-# map
-# Description:
-This HTML document displays a map using Mapbox and a button to animate a marker's movement along predefined bus stops between Gandhipuram and Sulur.
+# *Map Animation*
 
-# How to run the code:
-step1:Save the HTML file with .html extension.
+This project demonstrates an interactive *Map Animation* where a pin moves across different locations on the map. It is built using HTML, CSS, and JavaScript and can be used to simulate path animations or pin movements for mapping applications.
 
-step2:Click the "Go Live" button.A new browser window will open, displaying map moving from one place to another place.
+## *Features*:
+- *Smooth Pin Animation*: The pin moves smoothly across the map, simulating a real-time tracking effect.
+- *Interactive Map*: The map is responsive and adjusts to different screen sizes.
+- *Customizable Path*: Easily configure different routes and paths for the pin to follow.
+- *Responsive Design*: The layout adapts to different screen sizes for better user experience.
 
-# Future Enhancement:
-1)Display real-time bus location data on the map for a more practical application.
-
-2)Add interactive features like bus stop information on click or route selection options.
+## *Technologies Used*:
+- *HTML5* for structuring the map and pin.
+- *CSS3* for styling and animation effects.
+- *JavaScript* for controlling the movement of the pin and animation logic.
